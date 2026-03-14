@@ -1,4 +1,4 @@
-# Basics and Logic 🧠
+# Basics and Logic
 This folder contains my first programs in C++, focusing on basic syntax and logic.
 
 ### Projects:
