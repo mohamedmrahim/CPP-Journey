@@ -5,7 +5,8 @@ using namespace std;
 int main()
 {
 
-    double number, factorial=1;
+    int number;
+    double factorial=1;
 
   cout << "Enter a positive number \n";
   cin >> number;
