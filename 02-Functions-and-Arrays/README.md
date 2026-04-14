@@ -3,3 +3,4 @@ This folder focuses on organizing code into reusable blocks and managing collect
 
 ### Projects:
 - **Unit Convertor:** A C++ program that converts between units using functions and switch-case.
+- **Palindrome Checker:** A C++ program that determines if a given string is a palindrome.
