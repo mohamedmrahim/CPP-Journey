@@ -16,15 +16,15 @@ int main()
 }
 bool isPalindrome(string word)
 {
-  bool cheacer = true;
+  bool checker = true;
   int thelength = word.length();
   for (int i = 0; i < thelength / 2; i++)
   {
     if (word[i] != word[thelength - 1 - i])
     {
-      cheacer = false;
+      checker = false;
       break;
     }
   }
-  return cheacer;
+  return checker;
 }
